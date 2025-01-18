@@ -1,0 +1,1 @@
+# Actividad02_Vision_Artificial
