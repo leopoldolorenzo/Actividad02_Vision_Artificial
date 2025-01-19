@@ -20,14 +20,6 @@ El proyecto debe establecer objetivos claros, concisos y concretos que requieran
 
 En caso de que se utilice partes de un software existente, deberá referenciarse la fuente.
 
-Extensión y formato
-
-Deben entregar una memoria explicativa con estilo de artículo científico en PDF (máximo ocho páginas). A continuación, tienen las pautas para redactar la memoria:
-
-Resumen: breve descripción del propósito del laboratorio, resultados obtenidos y conclusiones.
-Introducción: contextualización del tema del laboratorio y objetivos específicos del experimento.
-Material y métodos: detalles sobre los materiales utilizados, descripción de los métodos y procedimientos seguidos. Referencias a cualquier código o software utilizado.
-Resultados: presentación e interpretación de los resultados obtenidos usando tablas, gráficos y figuras para su ilustración. Interpretación de los datos. Comparación de resultados con expectativas teóricas.
 Conclusiones: resumen de los hallazgos clave y reflexiones sobre el éxito o limitaciones del experimento. Posibles mejoras para futuras investigaciones.
 Referencias: citas bibliográficas de libros, artículos y recursos utilizados.
 
